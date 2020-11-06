@@ -5,7 +5,7 @@ import java.time.LocalTime;
 import java.time.format.DateTimeFormatter;
 import java.util.Scanner;
 
-class Solution {
+class timeConversion {
  
     private static final Scanner scan = new Scanner(System.in);
 
